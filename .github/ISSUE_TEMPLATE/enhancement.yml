@@ -1,0 +1,26 @@
+name: Enhancement
+description: Improve an existing feature or workflow.
+title: "[Enhancement]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: current
+    attributes:
+      label: What should be improved?
+      description: Describe the existing feature or workflow and what is difficult about it.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What would a better experience look like?
+      description: Explain the change or outcome you would like.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add links, examples, or other details that may help.
+    validations:
+      required: false
