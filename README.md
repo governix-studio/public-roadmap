@@ -1,8 +1,12 @@
-# Governix Public Roadmap
+<h1><img src="assets/governix-logo.svg" alt="" width="32"> Governix Public Roadmap</h1>
 
 Welcome to the public home for Governix product updates and community feedback.
 
 Use this repository to follow what we are working on, suggest improvements, report problems, and see what has shipped.
+
+<p align="center"><a href="https://governix.io"><img src="https://img.shields.io/badge/website-governix.io-6366F1?style=for-the-badge" alt="Visit governix.io"></a></p>
+
+<p align="center"><img src="assets/governix-homepage.png" alt="Governix homepage hero showing the message ‘Connect enterprise intent to engineering reality’"></p>
 
 ## Explore
 
